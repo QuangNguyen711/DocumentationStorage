@@ -1,0 +1,313 @@
+
+<sco tracking="none" narration="true" glossary="true" title="BÀI GIẢNG BỘ GIAO THỨC TCP/IP" completion="None" pageComplete="false">
+	<topics>
+		<topic title="1. GIỚI THIỆU"> 
+		</topic>
+			<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="1.1 Giới thiệu về TCP/IP">
+				</topic>
+				<page file="media/tcp110_1.swf" title="1.1.1 Giao thức" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp120_1.swf" title="1.1.2 Mô hình DoD" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+			
+			<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="1.2 Bộ giao thức TCP/IP">				
+				</topic>
+				<page file="media/tcp121_1.swf" title="1.2.1 Tầng giao diện mạng" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp122_1.swf" title="1.2.2 Tầng liên mạng" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp123_1.swf" title="1.2.3 Tầng giao vân" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp124_1.swf" title="1.1.4 Tầng ứng dụng" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp120_2u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>			
+			
+			<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="1.3 Quá trình truyền thông">
+				</topic>
+				<page file="media/tcp130_1.swf" title="1.3.1 Thuật ngữ gói" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp130_2.swf" title="Đơn vị gói" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp131_1.swf" title="Phân đoạn, thông báo" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp131_2u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>				
+				<page file="media/tcp132_1.swf" title="1.3.2 Các thành phần khung" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp132_2.swf" title="CRC" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp132_3u.swf" title="Câu hỏi 1" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp132_4u.swf" title="Câu hỏi 2" fpsec="12" isTocEntry="true" loadPercentage="50"></page>				
+				<page file="media/tcp133_1.swf" title="1.3.3 Luồng dữ liệu" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp133_2u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+			
+			<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="1.4 Các kiểu truyền dữ liệu">
+				</topic>
+				<page file="media/tcp140_1.swf" title="1.4.1 Các kiểu truyền" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp140_2.swf" title="1.4.2 Unicast" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp140_3.swf" title="1.4.3 Broadcast" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp140_4.swf" title="1.4.4 Multicast" fpsec="12" isTocEntry="true" loadPercentage="50"></page>		
+										
+		
+	<topic title="2. CÁC CÔNG NGHỆ TẦNG LIÊN KẾT DỮ LIỆU">	
+		</topic>
+			<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="2.1 Giới thiệu">				
+				</topic>
+				<page file="media/tcp210_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Các công nghệ mạng truy nhập"></page>
+		
+			<topic title="2.2 Ethernet">
+				</topic>
+				<page file="media/tcp220_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Ethernet(1)"></page>
+				<page file="media/tcp220_2.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Ethernet(2)"></page>
+				<page file="media/tcp220_3.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Ethernet(3)"></page>
+				<page file="media/tcp220_4.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Ethernet(4)"></page>
+				<page file="media/tcp210_2u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 1"></page>
+				<page file="media/tcp220_5u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 2"></page>
+				
+			<topic title="2.3 Token Ring">
+				</topic>
+				<page file="media/tcp230_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Token Ring(1)"></page>
+				<page file="media/tcp230_2.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Token Ring(2)"></page>
+				<page file="media/tcp230_3.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Token Ring(3)"></page>
+				<page file="media/tcp230_4u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi"></page>
+			
+			<topic title="2.4 Fiber Distributed Data Interface">
+				</topic>
+				<page file="media/tcp240_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="FDDI(1)"></page>
+				<page file="media/tcp240_2.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="FDDI(2)"></page>
+				<page file="media/tcp240_3.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="FDDI(3)"></page>
+				<page file="media/tcp240_4u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi"></page>
+				
+			<topic title="2.5 Frame Relay">
+				</topic>
+				<page file="media/tcp250_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Frame Relay(1)"></page>
+				<page file="media/tcp250_2.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Frame Relay(2)"></page>
+				<page file="media/tcp250_3u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi"></page>
+						
+			<topic title="2.6 ATM">
+				</topic>
+				<page file="media/tcp260_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="ATM(1)"></page>
+				<page file="media/tcp260_2.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="ATM(2)"></page>
+				<page file="media/tcp260_3.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="ATM(3)"></page>
+				<page file="media/tcp260_4u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 1"></page>
+				<page file="media/tcp260_5u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 2"></page>
+				<page file="media/tcp260_6u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 3"></page>				
+			
+		
+	<topic title="3. ĐỊA CHỈ IP">	
+		</topic>
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="3.1 Cấu trúc địa chỉ IP">
+				</topic>
+				<page file="media/tcp310_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Địa chỉ IP (1)"></page>
+				<page file="media/tcp310_2.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Địa chỉ IP (2)"></page>
+				<page file="media/tcp310_3.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Địa chỉ IP (3)"></page>
+				<page file="media/tcp310_4.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Địa chỉ IP (4)"></page>
+				<page file="media/tcp310_5u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 1"></page>
+				<page file="media/tcp310_6u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 2"></page>*			
+		
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="3.2 Lớp địa chỉ IP">		
+				</topic>
+				<page file="media/tcp320_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Địa chỉ lớp A"></page>
+				<page file="media/tcp320_2.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Địa chỉ lớp B, C"></page>
+				<page file="media/tcp320_3.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Địa chỉ lớp D, E"></page>
+				<page file="media/tcp320_4.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Tổng kết"></page>	
+				<page file="media/tcp320_5.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Địa chỉ IP đặc biệt"></page>
+				<page file="media/tcp320_6u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 1"></page>
+				<page file="media/tcp320_7u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 2"></page>
+				<page file="media/tcp320_8u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 3"></page>
+				<page file="media/tcp320_9u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 4"></page>
+				
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="3.3 Network ID và Host ID">
+				</topic>
+				<page file="media/tcp330_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Network ID và Host ID"></page>				
+				
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="3.4 Mặt nạ mạng con">
+				</topic>
+				<page file="media/tcp340_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Mặt nạ mạng con"></page>
+				<page file="media/tcp340_2.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Mặt nạ mặc định"></page>
+				<page file="media/tcp340_4u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi"></page>
+				
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="3.5 Thiết lập mạng con">
+				</topic>
+				<page file="media/tcp350_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Phân mạng con"></page>
+				<page file="media/tcp350_2.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Tổng kết"></page>
+		
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="3.6 CIDR">
+				</topic>
+				<page file="media/tcp360_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="CIDR (1)"></page>
+				<page file="media/tcp360_2.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="CIDR (2)"></page>
+				<page file="media/tcp360_3.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="CIDR (3)"></page>
+				<page file="media/tcp360_4.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="CIDR (4)"></page>
+				<page file="media/tcp360_5u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 1"></page>
+				<page file="media/tcp360_6u.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Câu hỏi 2"></page>
+		
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="3.7 Địa chỉ riêng và chung">
+				</topic>
+				<page file="media/tcp370_1.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="Địa chỉ riêng và chung"></page>
+				<page file="media/tcp370_2.swf" fpsec="12" isTocEntry="true" loadPercentage="50" title="NAT"></page>
+		
+		
+	<topic title="4. CÁC GIAO THỨC TÂNG INTERNET">
+		</topic>
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="4.1 Giới thiệu">
+				</topic>	
+				<page file="media/tcp410_1.swf" title="Giới thiệu" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="4.2 Giao thức phân giải địa chỉ ARP">
+				</topic>	
+				<page file="media/tcp420_1.swf" title="ARP (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp420_2.swf" title="ARP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp420_3.swf" title="ARP (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp420_4u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+		
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="4.3 Giao thức Internet">
+				</topic>
+				<page file="media/tcp430_1.swf" title="Giới thiệu" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp430_2u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp431_1.swf" title="4.3.1 Gói IP" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp432_1.swf" title="4.3.2 Tiêu đề IP" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp432_2.swf" title="Tiêu đề IP (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp432_3.swf" title="Tiêu đề IP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp432_4.swf" title="Tiêu đề IP (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp432_5.swf" title="Tiêu đề IP (4)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp432_6u.swf" title="Câu hỏi 1" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp432_7u.swf" title="Câu hỏi 2" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp432_8u.swf" title="Câu hỏi 3" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp433_1.swf" title="4.3.3 Phân mảnh" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp433_2.swf" title="Phân mảnh (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp433_3.swf" title="Phân mảnh (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp433_4.swf" title="Phân mảnh (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp433_5u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp434_1.swf" title="4.3.4 Định tuyến IP" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp434_2.swf" title="Định tuyến (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="4.4 Giao thức Internet phiên bản 6">
+				</topic>	
+				<page file="media/tcp440_1.swf" title="IPv6 (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp440_2.swf" title="IPv6 (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp440_3.swf" title="IPv6 (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+						
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="4.5 Giao thức điều khiển thông báo Internet - ICMP">
+				</topic>
+				<page file="media/tcp450_1.swf" title="ICMP (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp450_2.swf" title="ICMP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp450_3.swf" title="ICMP (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp450_4u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="4.6 Giao thức quản lý nhóm Internet - IGMP">
+				</topic>
+				<page file="media/tcp460_1.swf" title="IGMP (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp460_2.swf" title="IGMP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+						
+		
+	<topic title="5. CÁC GIAO THỨC TÂNG GIAO VẬN">
+		</topic>
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="5.1 Giới thiệu">
+				</topic>
+				<page file="media/tcp510_1.swf" title="Giới thiệu" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="5.2 Ports và Sockets">
+				</topic>
+				<page file="media/tcp520_1.swf" title="Giới thiệu" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="5.3 UDP">
+				</topic>		
+				<page file="media/tcp530_1.swf" title="UDP (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp530_2.swf" title="UDP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp530_3.swf" title="UDP (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp530_4u.swf" title="Câu hỏi 1" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp530_5u.swf" title="Câu hỏi 2" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp530_6u.swf" title="Câu hỏi 3" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="5.4 TCP">
+				</topic>
+				<page file="media/tcp540_1.swf" title="TCP (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp540_2.swf" title="TCP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp540_3.swf" title="TCP (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp540_4u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+			
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="5.5 Tiêu đề TCP">
+				</topic>
+				<page file="media/tcp550_1.swf" title="Tiêu đề TCP (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp550_2.swf" title="Tiêu đề TCP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp550_3.swf" title="Tiêu đề TCP (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp550_4u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="5.6 Kết nối TCP">
+				</topic>
+				<page file="media/tcp560_1.swf" title="Kết nối TCP (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp560_2.swf" title="Kết nối TCP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp560_3.swf" title="Kết nối TCP (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp560_4.swf" title="Kết nối TCP (4)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp560_5u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+							
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="5.7 Luồng dữ liệu">
+				</topic>
+				<page file="media/tcp570_1.swf" title="Luồng dữ liệu (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp570_2.swf" title="Luồng dữ liệu (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp570_3.swf" title="Luồng dữ liệu (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp570_4.swf" title="Luồng dữ liệu (4)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp570_5u.swf" title="Câu hỏi 1" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp570_6u.swf" title="Câu hỏi 2" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+		
+		
+	<topic title="6. CÁC GIAO THỨC TÂNG ỨNG DỤNG">
+		</topic>
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="6.1 Tổng quan">
+				</topic>
+				<page file="media/tcp610_2u.swf" title="Câu hỏi 1" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp610_3u.swf" title="Câu hỏi 2" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="6.2 Các giao thức UDP cơ bản">
+				</topic>
+				<page file="media/tcp620_1.swf" title="Giới thiệu UDP" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp621_1.swf" title="6.2.1 DHCP" fpsec="12" isTocEntry="true" loadPercentage="50"></page>				
+				<page file="media/tcp621_2.swf" title="DHCP (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp621_3.swf" title="DHCP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp621_4.swf" title="DHCP (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp621_5.swf" title="DHCP (4)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp621_6.swf" title="DHCP (5)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp621_7u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp622_1.swf" title="6.2.2 SNMP" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp622_2.swf" title="SNMP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp622_3.swf" title="SNMP (3)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp622_4u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp623_1.swf" title="6.2.3 TFTP" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp623_2.swf" title="TFTP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+		
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="6.3 Các giao thức TCP cơ bản">
+				</topic>
+				<page file="media/tcp630_1.swf" title="Cái giao thức chạy trên TCP" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp631_1.swf" title="6.3.1 Telnet" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp631_2u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp632_1.swf" title="6.3.2 SMTP" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp632_3u.swf" title="Câu hỏi 1" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp632_4u.swf" title="Câu hỏi 2" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp632_5u.swf" title="Câu hỏi 3" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp632_6u.swf" title="Câu hỏi 4" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp633_1.swf" title="6.3.3 FTP" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp633_2.swf" title="FTP (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="6.4 Giao thức DNS">
+				</topic>	
+			<page file="media/tcp640_1.swf" title="DNS (1)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+			<page file="media/tcp640_2.swf" title="DNS (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+		
+		
+	<topic title="7. TRUY NHẬP INTERNET">
+		</topic>
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="7.1 Mạng Internet">
+				</topic>
+				<page file="media/tcp710_1.swf" title="Internet là gì?" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp710_2.swf" title="Mô hình" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp710_3u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="7.2 Các giao thức Internet">
+				</topic>
+				<page file="media/tcp720_1.swf" title="Giao thức TCP/IP" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp720_2.swf" title="Các giao thức tầng ứng dụng" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp720_4u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+		
+		<topic fpsec="12" isTocEntry="true" loadPercentage="50" title="7.3 Các hướng bảo mật">
+				</topic>
+				<page file="media/tcp730_1.swf" title="An toàn mạng" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp731_1.swf" title="7.3.1 Biên dịch địa chỉ mạng - NAT" fpsec="12" isTocEntry="true" loadPercentage="50"></page>				
+				<page file="media/tcp731_2u.swf" title="Câu hỏi" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp732_1.swf" title="7.3.2 Máy chủ ủy quyền" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp732_3u.swf" title="Câu hỏi 1" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp732_4u.swf" title="Câu hỏi 2" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp733_1.swf" title="7.3.3 Tường lửa" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp733_2.swf" title="Tường lửa (2)" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp733_3u.swf" title="Câu hỏi 1" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp733_4u.swf" title="Câu hỏi 2" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				<page file="media/tcp733_5u.swf" title="Câu hỏi 3" fpsec="12" isTocEntry="true" loadPercentage="50"></page>
+				
+	</topics>
+</sco>
